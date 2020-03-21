@@ -2,7 +2,19 @@
 
 - 一个简易的记事本
 
+# npm
+
 ## yarn global add dfy-todo
+
+命令行
+
+```
+t
+
+t --version
+```
+
+# dev
 
 ## node cli.js
 
