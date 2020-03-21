@@ -2,6 +2,8 @@
 
 - 一个简易的记事本
 
+## yarn global add dfy-todo
+
 ## node cli.js
 
 Usage: cli [options][command]
